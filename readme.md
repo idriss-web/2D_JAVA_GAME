@@ -11,7 +11,7 @@ Ce projet implémente un jeu 2D où un joueur navigue à travers une grille cont
 ## Installation
 1. Clonez ce repository sur votre machine locale :
    ```bash
-   git clone https://github.com/yourusername/jeu-2d-bfs.git
+   git clone https://github.com/idriss-web/2D_JAVA_GAME.git
    ```
 
 2. Compilez et exécutez le projet en utilisant votre IDE Java préféré (par exemple IntelliJ IDEA, Eclipse, ou NetBeans).
@@ -75,3 +75,4 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'i
 ### Auteurs
 
 - **Nom Prénom** Idriss Chadili
+
